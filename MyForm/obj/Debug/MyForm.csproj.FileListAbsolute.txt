@@ -1,0 +1,14 @@
+C:\Users\john\source\repos\FieldPaintSession9\MyForm\bin\Debug\MyForm.exe.config
+C:\Users\john\source\repos\FieldPaintSession9\MyForm\bin\Debug\MyForm.exe
+C:\Users\john\source\repos\FieldPaintSession9\MyForm\bin\Debug\MyForm.pdb
+C:\Users\john\source\repos\FieldPaintSession9\MyForm\bin\Debug\FieldPaintSession9.exe
+C:\Users\john\source\repos\FieldPaintSession9\MyForm\bin\Debug\FieldPaintSession9.pdb
+C:\Users\john\source\repos\FieldPaintSession9\MyForm\bin\Debug\FieldPaintSession9.exe.config
+C:\Users\john\source\repos\FieldPaintSession9\MyForm\obj\Debug\MyForm.csprojAssemblyReference.cache
+C:\Users\john\source\repos\FieldPaintSession9\MyForm\obj\Debug\MyForm.Form1.resources
+C:\Users\john\source\repos\FieldPaintSession9\MyForm\obj\Debug\MyForm.Properties.Resources.resources
+C:\Users\john\source\repos\FieldPaintSession9\MyForm\obj\Debug\MyForm.csproj.GenerateResource.cache
+C:\Users\john\source\repos\FieldPaintSession9\MyForm\obj\Debug\MyForm.csproj.CoreCompileInputs.cache
+C:\Users\john\source\repos\FieldPaintSession9\MyForm\obj\Debug\MyForm.csproj.CopyComplete
+C:\Users\john\source\repos\FieldPaintSession9\MyForm\obj\Debug\MyForm.exe
+C:\Users\john\source\repos\FieldPaintSession9\MyForm\obj\Debug\MyForm.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FieldPaintSession9", "FieldPaintSession9\FieldPaintSession9.csproj", "{AE974AC8-97A4-496D-BBA3-F43ABD2CF4E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyForm", "MyForm\MyForm.csproj", "{2C7B3D62-0264-4829-9EAC-D9177F3D7E6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE974AC8-97A4-496D-BBA3-F43ABD2CF4E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE974AC8-97A4-496D-BBA3-F43ABD2CF4E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE974AC8-97A4-496D-BBA3-F43ABD2CF4E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE974AC8-97A4-496D-BBA3-F43ABD2CF4E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C7B3D62-0264-4829-9EAC-D9177F3D7E6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C7B3D62-0264-4829-9EAC-D9177F3D7E6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C7B3D62-0264-4829-9EAC-D9177F3D7E6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C7B3D62-0264-4829-9EAC-D9177F3D7E6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8759FC4C-5795-43CD-8FD7-B154AD104645}
+	EndGlobalSection
+EndGlobal
